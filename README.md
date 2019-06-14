@@ -20,3 +20,7 @@ _Connection scheme:_ rotary encoder => Arduino
 * S1 =>	any digital PIN (example: 4)
 * S2 =>	any digital PIN (example: 3)
 * KEY =>	any digital PIN  (example: 2)
+
+source codes:
+* wavgat_rot_enc.ino  BASIC demo file
+* wavgat_rot_enc_joy.ino  Encoder emulating joystick buttons
